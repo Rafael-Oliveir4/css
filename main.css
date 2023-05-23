@@ -32,7 +32,7 @@ header li a {
 }
 
 .container{
-    width: auto;
+    width: 80%;
     margin: 0 auto;
 }
 
@@ -117,6 +117,7 @@ section h2{
 
 #tech {
     background-color: grey;
+    color: white;
 }
 
 #tech .articles article a {
